@@ -25,7 +25,7 @@ This is just a sample. No relations have with my current work or private project
 
 * for this is just sample.
 
-### Functional(stateless) components used but stateful components are behind comments.
+### Functional components used. Class components are commented.
 
 * how to make component. with class or function.
 
