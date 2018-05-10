@@ -12,7 +12,7 @@ This is just a sample. No relations have with my current work or private project
 
 * fetch()
 
-### Asynchronous work with promise and async / await
+### Promise and async / await
 
 * .then().catch()
 * async() => await
