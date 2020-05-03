@@ -38,7 +38,7 @@ class App extends Component {
   }
 
   _callApi = () => {
-    return fetch("https://yts.am/api/v2/list_movies.json?sort_by=rating")
+    return fetch("/api/v2/list_movies.json?sort_by=rating")
     .then(response => response.json())
     .then(response => response.data.movies)
     .catch(err => console.log(err))
